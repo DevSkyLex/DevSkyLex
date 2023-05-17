@@ -6,4 +6,3 @@ Vous pouvez me contacter pour toutes questions, suggestions, commentaires ou opp
 
 📧 **Adresse email** (pro): contact@valentin-fortin.pro<br>
 🐦 **Twitter** : [@cmdrSkyLex](https://twitter.com/cmdrSkyLex)</br>
-🔗 **Site Internet** (portfolio): [www.valentin-fortin.pro](https://www.valentin-fortin.pro)
