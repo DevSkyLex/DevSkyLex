@@ -1,28 +1,32 @@
 # Valentin Fortin
 
-**Full-stack developer**
+**Full-stack & mobile developer**
 
-I build web applications across the stack, from interfaces and APIs to databases and deployment. My work centers on clear architecture, accessible experiences, and code that can be maintained as a product grows.
+I build web and mobile applications across the stack, from responsive interfaces to APIs, databases, and deployment. I focus on maintainable architecture, accessible experiences, and reliable behavior in real-world conditions.
 
-## What I work on
+## Areas of work
 
-**Frontend development**  
-Responsive interfaces with Angular and TypeScript, including state management, server-side rendering, accessibility, and localization.
+**Web applications**  
+Building responsive, accessible interfaces with Angular and TypeScript, including state management, server-side rendering, and localization.
 
-**Backend development**  
-APIs and application services with Symfony and NestJS, covering domain logic, authentication, authorization, validation, and data persistence.
+**Mobile applications**  
+Developing cross-platform applications with Flutter and Dart, with attention to app state, platform integration, localization, and offline behavior.
 
-**Architecture and data**  
-Clear boundaries between application layers, shared contracts, modular code, and PostgreSQL data models.
+**Backend & data**  
+Designing APIs and services with Symfony and NestJS, from domain logic and validation to authentication, authorization, and PostgreSQL persistence.
 
-**Quality and delivery**  
-Automated tests, code quality checks, continuous integration, and containerized workflows.
+**Architecture & delivery**  
+Organizing code around clear boundaries and shared contracts, supported by automated tests, continuous integration, and containerized workflows.
 
 ## Technologies
 
-**Frontend**
+**Web**
 
 ![Angular](https://img.shields.io/badge/Angular-242938?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-242938?style=flat-square&logo=typescript&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-242938?style=flat-square&logo=ngrx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-242938?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-242938?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-242938?style=flat-square&logo=dart&logoColor=white)
 
 **Backend & data**
 
@@ -35,6 +39,6 @@ Automated tests, code quality checks, continuous integration, and containerized 
 ## How I approach development
 
 - Start with the problem and the needs of the people using the application.
-- Keep responsibilities and dependencies explicit as the codebase evolves.
-- Treat accessibility, security, and error handling as part of the feature.
-- Use automated checks and tests to make changes easier to review and maintain.
+- Make responsibilities, dependencies, and data flows explicit.
+- Consider accessibility, security, and failure states throughout development.
+- Use automated checks and tests to support changes as a codebase grows.
