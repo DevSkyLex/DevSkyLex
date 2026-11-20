@@ -1,20 +1,47 @@
-# Valentin Fortin
-
-**Full-stack & mobile developer**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Valentin Fortin, full-stack & mobile developer" src="assets/banner-light.svg" width="100%">
+</picture>
 
 I build web and mobile applications, from the screens people use to the APIs and databases behind them.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## Technical focus
 
 | Area | Focus and tools |
 | :--- | :--- |
-| **Web** | Responsive, accessible interfaces with state management, server-side rendering, and localization.<br>![Angular](https://img.shields.io/badge/Angular-242938?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-242938?style=flat-square&logo=typescript&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-242938?style=flat-square&logo=ngrx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-242938?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Mobile** | iOS and Android apps with platform integration, state management, and support for offline use.<br>![Flutter](https://img.shields.io/badge/Flutter-242938?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-242938?style=flat-square&logo=dart&logoColor=white) |
-| **Backend & data** | APIs, authentication, authorization, validation, and relational data models.<br>![PHP](https://img.shields.io/badge/PHP-242938?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-242938?style=flat-square&logo=symfony&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-242938?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242938?style=flat-square&logo=postgresql&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-242938?style=flat-square&logo=zod&logoColor=white) |
-| **Testing & delivery** | Automated tests, continuous integration, and repeatable builds.<br>![Vitest](https://img.shields.io/badge/Vitest-242938?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-242938?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNTEuNzMyIDgzLjkzNXYtNy4xNzlsLTE5Ljk0NSA1LjY1NnMxLjQ3NC04LjU2MyAxMS44NzYtMTEuNTE0YzMuMTU1LS44OTQgNS44NDYtLjg4OCA4LjA2OS0uNDU5VjQwLjk5NWg5Ljk4N2MtMS4wODctMy4zNi0yLjEzOS01Ljk0Ny0zLjAyMy03Ljc0NC0xLjQ2MS0yLjk3NS0yLjk2LTEuMDAzLTYuMzYxIDEuODQyLTIuMzk2IDIuMDAxLTguNDUgNi4yNzEtMTcuNTYxIDguNzI2LTkuMTExIDIuNDU3LTE2LjQ3NiAxLjgwNS0xOS41NSAxLjI3My00LjM1Ny0uNzUyLTYuNjM2LTEuNzA4LTYuNDIyIDEuNjA1LjE4NiAyLjkyMy44ODIgNy40NTUgMi40NzcgMTMuNDQgMy40NSAxMi45NjIgMTQuODU0IDM3LjkzNyAzNi40MDUgMzIuMTMyIDUuNjI5LTEuNTE3IDkuNjAzLTQuNTE1IDEyLjM1Ny04LjMzNmgtOC4zMDl2LjAwMlptLTMyLjE4NS0yMy42MiAxNS4zMTYtNC4wMzVzLS40NDYgNS44OTItNi4xODggNy40MDVjLTUuNzQzIDEuNTEyLTkuMTI4LTMuMzcxLTkuMTI4LTMuMzcxWiIgZmlsbD0iI0UyNTc0QyIvPjxwYXRoIGQ9Ik0xMDkuMzcyIDQxLjMzNmMtMy45ODEuNjk4LTEzLjUzMiAxLjU2Ny0yNS4zMzYtMS41OTYtMTEuODA3LTMuMTYyLTE5LjY0LTguNjkyLTIyLjc0NC0xMS4yOTItNC40LTMuNjg1LTYuMzM1LTYuMjQ2LTguMjQtMi4zNzItMS42ODQgMy40MTctMy44MzcgOC45NzctNS45MjEgMTYuNzYyLTQuNTE2IDE2Ljg1Ny03Ljg5MiA1Mi40MjkgMjAuMDI3IDU5LjkxNCAyNy45MTIgNy40NzkgNDIuNzcyLTI1LjAxNyA0Ny4yODktNDEuODc1IDIuMDg0LTcuNzgzIDIuOTk4LTEzLjY3NiAzLjI1LTE3LjQ3Ni4yODctNC4zMDUtMi42Ny0zLjA1NS04LjMyNC0yLjA2NFpNNTMuMjggNTUuMjgyczQuNC02Ljg0MyAxMS44NjItNC43MjJjNy40NjcgMi4xMjEgOC4wNDUgMTAuMzc2IDguMDQ1IDEwLjM3Nkw1My4yOCA1NS4yODJabTE4LjIxNSAzMC43MDZjLTEzLjEyNS0zLjg0NS0xNS4xNS0xNC4zMTEtMTUuMTUtMTQuMzExbDM1LjI1OSA5Ljg1OGMwLS4wMDItNy4xMTcgOC4yNS0yMC4xMDkgNC40NTNabTEyLjQ2Ni0yMS41MXM0LjM5NC02LjgzOCAxMS44NTQtNC43MTFjNy40NiAyLjEyNCA4LjA0OCAxMC4zNzkgOC4wNDggMTAuMzc5bC0xOS45MDItNS42NjhaIiBmaWxsPSIjMkVBRDMzIi8%2BPC9zdmc%2B&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-242938?style=flat-square&logo=nx&logoColor=white) ![Git](https://img.shields.io/badge/Git-242938?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-242938?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-242938?style=flat-square&logo=githubactions&logoColor=white) |
+| **Web** | Responsive, accessible interfaces with state management, server-side rendering, and localization.<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-web-dark.svg"><img alt="Angular, TypeScript, NgRx, Tailwind CSS" src="assets/stack-web-light.svg" height="30"></picture> |
+| **Mobile** | iOS and Android apps with platform integration, state management, and support for offline use.<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg"><img alt="Flutter, Dart" src="assets/stack-mobile-light.svg" height="30"></picture> |
+| **Backend & data** | APIs, authentication, authorization, validation, and relational data models.<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg"><img alt="PHP, Symfony, NestJS, PostgreSQL, Zod" src="assets/stack-backend-light.svg" height="30"></picture> |
+| **Testing & delivery** | Automated tests, continuous integration, and repeatable builds.<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-delivery-dark.svg"><img alt="Vitest, Playwright, Nx, Git, Docker, GitHub Actions" src="assets/stack-delivery-light.svg" height="30"></picture> |
 
 ## Engineering practices
 
 - **Architecture** — Keep application layers and their dependencies explicit, with shared contracts at integration points.
 - **User experience** — Build accessibility, localization, and error recovery into the interface.
 - **Verification** — Cover business rules with focused tests and check key user flows before release.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DevSkyLex&show_icons=true&hide_border=true&bg_color=0e0e19&title_color=ff4fae&icon_color=9b6dff&text_color=f2f2f7">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DevSkyLex&show_icons=true&hide_border=true&bg_color=f6f6fa&title_color=c8156f&icon_color=6a3fe6&text_color=0b0b14" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSkyLex&layout=compact&hide_border=true&bg_color=0e0e19&title_color=ff4fae&text_color=f2f2f7">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSkyLex&layout=compact&hide_border=true&bg_color=f6f6fa&title_color=c8156f&text_color=0b0b14" height="165">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img alt="" src="assets/footer-light.svg" width="100%">
+</picture>
